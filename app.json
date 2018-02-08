@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "orientation": "portrait",
+    "name": "Udacifitness",
+    "description": "The best triathlon trakcer ever",
+    "slug": "Udacifitness",
+    "version": "1.0",
+    "icon": "https://www.google.com",
+    "notification": {
+      "icon": "https://www.google.com"
+    },
+    "ios": {
+      "bundleIndentifier": "org.udacifitness.exp"
+    },
+    "android": {
+      "package": "org.udacifitness.exp"
+    }
+  }
+}
